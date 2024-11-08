@@ -1,2 +1,2 @@
 type1 testing is good!
-That's my favourite of favourites test type
+ I love this testing!
